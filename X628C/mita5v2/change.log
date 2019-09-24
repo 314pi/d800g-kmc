@@ -1,0 +1,21 @@
+﻿(Font Arial)
+Mitaco 5 v2 (01-11-2011) :
+
++ Sửa lỗi sai ngày, tháng, năm
++ Sửa chức năng "lưu công việc"
++ Quản lý các chế độ nghỉ
++ Số serial sẽ được check ngay khi đăng ký.
++ Tính ra công cho tăng ca 1 và tăng ca 2
++ Khai báo các ngày lễ
++ Làm tròn giờ tăng ca theo Block phút
++ Quản lý phép năm từng nhân viên
++ Kết nối có password với máy chấm công
++ Ngày tháng năm dựa theo hệ thống, ko cố định.
++ Có thể sử dụng phiên bản vân tay  FINGER vx10
++ Fix lỗi: chấm công tính theo ID máy
++ Fix lỗi : load file từ HDD và USB , có thể load dạng cũ lẫn dạng mới.
++ Fix chức năng tính về trễ.
++ Thêm menu các ký hiệu.
++ Xuất ra giờ chấm công ngang và dọc.
++ Connect qua URL
++ Có thể dùng SQL Server

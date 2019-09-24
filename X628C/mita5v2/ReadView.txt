@@ -1,0 +1,6 @@
+Neu chuong trinh thong bao loi hoac ko chay dc vui long
+thu chay cac file sau truoc khi chay chuong trinh chinh
+click double file DangkyAll.bat
+
+Vui long cai dat chuong trinh co quyen Administrator
+
